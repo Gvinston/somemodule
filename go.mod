@@ -1,3 +1,3 @@
-module github.com/Gvinston/somemodule
+module github.com/gvinston/somemodule
 
 go 1.21
